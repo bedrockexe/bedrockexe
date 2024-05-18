@@ -1,4 +1,4 @@
-Welcome to My GitHub Profile! 👋
+<h1>Welcome to My GitHub Profile! 👋</h1>
 Hey there! I'm Terrence, a passionate full stack web developer, cybersecurity enthusiast, and competitive programmer. Welcome to my corner of the coding universe! 🚀
 
 About Me ℹ️
