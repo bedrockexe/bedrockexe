@@ -1,6 +1,8 @@
 <h1>Welcome to My GitHub Profile! 👋</h1>
 <p>Hey there! I'm Terrence, a passionate full stack web developer, cybersecurity enthusiast, and competitive programmer. Welcome to my corner of the coding universe! 🚀</p>
 
+![Header](./profile.png)
+
 <h1>About Me ℹ️</h1>
 <ul>
   <li>💻 Full Stack Web Developer</li>
