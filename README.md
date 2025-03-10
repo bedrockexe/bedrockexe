@@ -29,9 +29,9 @@
 <h1>Let's Connect! 🌟</h1>
 <p>Feel free to explore my repositories and reach out if you have any questions, collaboration ideas, or just want to chat about coding and cybersecurity. You can find me on:</p>
 <ul>
-  <li>[Linkedin](https://www.linkedin.com/in/terrence-joshua-balba-991602344/)</li>
-  <li>[Indeed](https://profile.indeed.com/p/terrencejoshuab-8m4bxt2)</li>
-  <li>[Upwork](https://www.upwork.com/freelancers/~0108d8dc8efc250997?mp_source=share)</li>
+  [Linkedin](https://www.linkedin.com/in/terrence-joshua-balba-991602344/)
+  [Indeed](https://profile.indeed.com/p/terrencejoshuab-8m4bxt2)
+  [Upwork](https://www.upwork.com/freelancers/~0108d8dc8efc250997?mp_source=share)
 </ul>
 
 <h1>Fun Fact 💡</h1>
